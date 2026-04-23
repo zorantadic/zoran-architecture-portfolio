@@ -30,6 +30,7 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
 - Repository: [azure-mcp-hyper-rag-platform](https://github.com/zorantadic/azure-mcp-hyper-rag-platform)
 - Focus: Azure, MCP, Hyper-RAG, orchestration, retrieval
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure Database for PostgreSQL, Azure Blob Storage
+- Scenario: The platform represents an enterprise AI workflow in which a user submits a business question to a central orchestrator that coordinates MCP server interactions and Hyper-RAG retrieval within the same execution flow. The system combines tool-driven context and grounded retrieved content, builds a traceable context package, and returns an explainable answer through an Azure-based orchestration architecture.
 - Demo Video: [Watch the demo](https://www.youtube.com/watch?v=zEGZGWegF7E)
 
 [![Watch the demo](https://img.youtube.com/vi/zEGZGWegF7E/hqdefault.jpg)](https://www.youtube.com/watch?v=zEGZGWegF7E)
