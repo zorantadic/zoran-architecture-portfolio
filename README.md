@@ -28,7 +28,7 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure Database for PostgreSQL, Azure Blob Storage
 ## Demo Video Azure MCP and Hyper-RAG Platform
 Watch the project walkthrough here:
-  https://www.youtube.com/watch?v=zEGZGWegF7E
+  [![Watch the demo](https://img.youtube.com/vi/zEGZGWegF7E/hqdefault.jpg)](https://www.youtube.com/watch?v=zEGZGWegF7E)
 
 ## Text-to-SQL Demo
 Azure-based Text-to-SQL platform showcasing natural language query workflows, orchestration, and enterprise AI architecture patterns.
@@ -37,7 +37,7 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure SQL Database, Azure App Service
 ## Demo Video Text-to-SQL
 Watch the project walkthrough here:
-  https://youtu.be/NCHlCZsHeOc?si=h70jU4XIZeddAF7i
+  [![Watch the demo](https://img.youtube.com/vi/NCHlCZsHeOc/hqdefault.jpg)](https://www.youtube.com/watch?v=NCHlCZsHeOc)
 
 ## Multi-Agent Cloud Transformation
 Enterprise-focused multi-agent Azure platform showcasing orchestration, tool integration, and scalable AI architecture patterns for cloud transformation workflows.
