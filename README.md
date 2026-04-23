@@ -36,5 +36,5 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 - Focus: Text-to-SQL, natural language querying, orchestration, AI workflows
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure SQL Database, Azure App Service
 ## Demo Video Text-to-SQL
-Watch the project walkthrough here:Text-to-SQL
-https://youtu.be/NCHlCZsHeOc?si=h70jU4XIZeddAF7i
+Watch the project walkthrough here:
+  https://youtu.be/NCHlCZsHeOc?si=h70jU4XIZeddAF7i
