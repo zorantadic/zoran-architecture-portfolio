@@ -43,7 +43,8 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 - Repository: [text-to-sql-demo](https://github.com/zorantadic/text-to-sql-demo)
 - Focus: Text-to-SQL, natural language querying, orchestration, AI workflows
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure SQL Database, Azure App Service
-- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=wvEGE16FQrI)
+- Scenario: The demo represents a sales analytics workflow in which a business user asks natural-language questions about regional performance and customer rankings. The      platform classifies the question, generates SQL only against approved Gold-layer objects, executes the query, and returns trustworthy business answers derived from the      database rather than from the model itself.
+- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=NCHlCZsHeOc)
 
 [![Watch the demo](https://img.youtube.com/vi/wvEGE16FQrI/hqdefault.jpg)](https://www.youtube.com/watch?v=wvEGE16FQrI)
 
@@ -57,6 +58,6 @@ Enterprise-focused multi-agent Azure platform showcasing orchestration, tool int
 - Focus: Multi-agent systems, orchestration, tool integration, cloud transformation
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure AI Foundry, Azure Storage
 - Scenario: The workflow starts with environment discovery, continues with AI-assisted planning and execution preparation, then coordinates delivery actions, approval gates, and verification across a cloud transformation run.
-- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=NCHlCZsHeOc)
+- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=wvEGE16FQrI)
 
 [![Watch the demo](https://img.youtube.com/vi/NCHlCZsHeOc/hqdefault.jpg)](https://www.youtube.com/watch?v=NCHlCZsHeOc)
