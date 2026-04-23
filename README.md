@@ -20,7 +20,7 @@ Cloud Solutions Architect and AI Architect focused on Azure, Microsoft Fabric, a
 - Agentic AI and multi-agent systems
 - Enterprise data platforms
 - Production-ready solution design
-=======================================================================================
+===================================================================================
 ## Azure MCP and Hyper-RAG Platform
 Enterprise-focused Azure platform demonstrating orchestration, retrieval workflows, and scalable AI architecture patterns.
 - Repository: https://github.com/zorantadic/azure-mcp-hyper-rag-platform
@@ -51,4 +51,4 @@ Enterprise-focused multi-agent Azure platform showcasing orchestration, tool int
 Watch the project walkthrough here:
   [![Watch the demo](https://img.youtube.com/vi/wvEGE16FQrI/hqdefault.jpg)](https://www.youtube.com/watch?v=wvEGE16FQrI)
 
-=======================================================================================
+====================================================================================
