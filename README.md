@@ -29,7 +29,8 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
 ## Demo Video Azure MCP and Hyper-RAG Platform
 Watch the project walkthrough here:
   [![Watch the demo](https://img.youtube.com/vi/zEGZGWegF7E/hqdefault.jpg)](https://www.youtube.com/watch?v=zEGZGWegF7E)
-===============================================================================================================================================
+
+=========================================================================================
 ## Text-to-SQL Demo
 Azure-based Text-to-SQL platform showcasing natural language query workflows, orchestration, and enterprise AI architecture patterns.
 - Repository: https://github.com/zorantadic/text-to-sql-demo
@@ -38,7 +39,7 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 ## Demo Video Text-to-SQL
 Watch the project walkthrough here:
   [![Watch the demo](https://img.youtube.com/vi/NCHlCZsHeOc/hqdefault.jpg)](https://www.youtube.com/watch?v=NCHlCZsHeOc)
-=============================================================================================================================================
+
 ## Multi-Agent Cloud Transformation
 Enterprise-focused multi-agent Azure platform showcasing orchestration, tool integration, and scalable AI architecture patterns for cloud transformation workflows.
 - Repository: https://github.com/zorantadic/multi-agent-cloud-transformation
