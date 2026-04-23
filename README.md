@@ -38,3 +38,13 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 ## Demo Video Text-to-SQL
 Watch the project walkthrough here:
   https://youtu.be/NCHlCZsHeOc?si=h70jU4XIZeddAF7i
+
+## Multi-Agent Cloud Transformation
+Enterprise-focused multi-agent Azure platform showcasing orchestration, tool integration, and scalable AI architecture patterns for cloud transformation workflows.
+- Repository: https://github.com/zorantadic/multi-agent-cloud-transformation
+- Focus: Multi-agent systems, orchestration, tool integration, cloud transformation
+- Azure Services: Azure OpenAI, Azure Container Apps, Azure AI Foundry, Azure Storage
+- Scenario: The workflow starts with environment discovery, continues with AI-assisted planning and execution preparation, then coordinates delivery actions, approval gates, and verification across a cloud transformation run.
+## Demo Video Multi-Agent Cloud Transformation
+Watch the project walkthrough here:
+  [![Watch the demo](https://img.youtube.com/vi/wvEGE16FQrI/hqdefault.jpg)](https://www.youtube.com/watch?v=wvEGE16FQrI)
