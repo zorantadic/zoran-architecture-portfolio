@@ -29,3 +29,9 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
   ## Demo Video
 Watch the project walkthrough here:
 https://www.youtube.com/watch?v=zEGZGWegF7E
+
+## Text-to-SQL Demo
+Azure-based Text-to-SQL platform showcasing natural language query workflows, orchestration, and enterprise AI architecture patterns.
+- https://github.com/zorantadic/text-to-sql-demo
+DEMO VIDEO Text-to-SQL
+https://youtu.be/NCHlCZsHeOc?si=h70jU4XIZeddAF7i
