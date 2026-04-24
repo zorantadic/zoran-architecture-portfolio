@@ -36,7 +36,6 @@ This portfolio highlights architecture and implementation work across Azure foun
 - Enterprise data platforms
 - Production-ready solution design
 
-<br><br>
 
 ## Azure MCP and Hyper-RAG Platform
 
