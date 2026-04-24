@@ -27,15 +27,6 @@ This portfolio highlights architecture and implementation work across Azure foun
 - Governance, Security, and Compliance (policy-driven architecture, controlled access)
 - CI/CD and Infrastructure as Code (automated deployment, repeatable environments)
 
-## Focus Areas
-
-- Azure cloud architecture
-- AI architecture
-- Microsoft Fabric
-- Agentic AI and multi-agent systems
-- Enterprise data platforms
-- Production-ready solution design
-
 
 ## Azure MCP and Hyper-RAG Platform
 
@@ -58,7 +49,7 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 - Repository: [text-to-sql-demo](https://github.com/zorantadic/text-to-sql-demo)
 - Focus: Text-to-SQL, natural language querying, orchestration, AI workflows
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure SQL Database, Azure App Service
--Scenario: The demo represents an enterprise sales analytics workflow built on a multi-source data platform. Business data originates from Azure SQL and Blob-based CSV      inputs, is prepared through a Fabric medallion architecture (Bronze, Silver, Gold), and exposed through a curated Gold layer.
+- Scenario: The demo represents an enterprise sales analytics workflow built on a multi-source data platform. Business data originates from Azure SQL and Blob-based CSV      inputs, is prepared through a Fabric medallion architecture (Bronze, Silver, Gold), and exposed through a curated Gold layer.
 The system interprets natural-language questions, generates SQL strictly against approved Gold-layer objects, and enforces a clear responsibility boundary where the         database computes all business results. The orchestration layer validates queries and controls execution, while the AI layer is responsible only for interpretation and      response generation based on returned data.
 
 This demonstrates a production-aligned Text-to-SQL architecture with controlled query generation, governed data access, and trustworthy result synthesis.
