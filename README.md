@@ -19,6 +19,14 @@ This portfolio highlights architecture and implementation work across Azure foun
 - Enterprise Cloud Foundation Modernization
 - Enterprise Migration and Modernization Delivery
 
+## Architecture Focus
+
+- Azure Cloud Foundations (landing zones, networking, identity, governance)
+- Enterprise Data Platforms (Microsoft Fabric, SQL, medallion architecture)
+- AI Systems (Text-to-SQL, Hyper-RAG, MCP, multi-agent orchestration)
+- Governance, Security, and Compliance (policy-driven architecture, controlled access)
+- CI/CD and Infrastructure as Code (automated deployment, repeatable environments)
+
 ## Focus Areas
 
 - Azure cloud architecture
