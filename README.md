@@ -39,7 +39,6 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
 
 [![Watch the demo](https://img.youtube.com/vi/zEGZGWegF7E/hqdefault.jpg)](https://www.youtube.com/watch?v=zEGZGWegF7E)
 
-<br><br>
 
 ## Text-to-SQL Demo
 
@@ -50,8 +49,7 @@ Azure-based Text-to-SQL platform showcasing natural language query workflows, or
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure SQL Database, Azure App Service
 - Scenario: The demo represents an enterprise sales analytics workflow built on a multi-source data platform. Business data originates from Azure SQL and Blob-based CSV       inputs, is prepared through a Fabric medallion architecture (Bronze, Silver, Gold), and exposed through a curated Gold layer.
   The system interprets natural-language questions, generates SQL strictly against approved Gold-layer objects, and enforces a clear responsibility boundary where the         database computes all business results. The orchestration layer validates queries and controls execution, while the AI layer is responsible only for interpretation and      response generation based on returned data.
-
-This demonstrates a production-aligned Text-to-SQL architecture with controlled query generation, governed data access, and trustworthy result synthesis.
+  This demonstrates a production-aligned Text-to-SQL architecture with controlled query generation, governed data access, and trustworthy result synthesis.
 
 - Demo Video: [Watch the demo](https://www.youtube.com/watch?v=NCHlCZsHeOc)
 
