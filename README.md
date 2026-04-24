@@ -1,14 +1,21 @@
 # Zoran Tadic — Cloud & AI Architecture Portfolio
 
-Cloud Solutions Architect and AI Architect focused on Azure, Microsoft Fabric, agentic AI, multi-agent systems, Text-to-SQL, Hyper-RAG, and enterprise solution architecture.
+Senior Cloud Solutions Architect and AI Architect focused on secure Azure cloud platforms, enterprise modernization, governance automation, and AI-enabled solution delivery.
+
+This portfolio highlights architecture and implementation work across Azure foundations, Microsoft Fabric data platforms, Text-to-SQL analytics, Hyper-RAG, MCP, multi-agent systems, healthcare AI, and real-time voice AI.
 
 ## Featured Projects
 
+### Implemented GitHub Demo Projects
+
 - [Text-to-SQL Demo](https://github.com/zorantadic/text-to-sql-demo)
 - [Azure MCP and Hyper-RAG Platform](https://github.com/zorantadic/azure-mcp-hyper-rag-platform)
-- [Real-Time Voice AI Platform](#)
-- [AI-Enabled Healthcare Platform](#)
 - [Multi-Agent Cloud Transformation](https://github.com/zorantadic/multi-agent-cloud-transformation)
+
+### Selected Architecture Projects
+
+- Real-Time Voice AI Platform
+- AI-Enabled Healthcare Platform
 - Enterprise Cloud Foundation Modernization
 - Enterprise Migration and Modernization Delivery
 
