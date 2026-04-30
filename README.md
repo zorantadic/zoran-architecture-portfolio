@@ -35,7 +35,9 @@ Enterprise-focused Azure demo showing how AI retrieval can use both text and vis
 - Focus: Azure AI Search, Multimodal RAG, retrieval preparation, grounding, document intelligence
   Azure Services: Azure AI Search, Azure AI Services, Azure Blob Storage, Azure OpenAI / Microsoft Foundry
 - Scenario: The project demonstrates a controlled multimodal retrieval workflow where business PDF documents are stored in Azure Blob Storage, prepared through a retrieval    indexing pipeline, enriched with text and image understanding, and indexed for grounded question answering. At runtime, the system retrieves prepared grounding records      from Azure AI Search, sends structured context to the model, and returns an answer supported by evidence from both textual and visual document content.
-- Demo Video: 
+- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+
+[![Watch the demo](https://img.youtube.com/vi/InuoZ_LXcSE/hqdefault.jpg)](https://www.youtube.com/watch?v=InuoZ_LXcSE)
 
 
 
@@ -47,9 +49,9 @@ Enterprise-focused Azure platform demonstrating orchestration, retrieval workflo
 - Focus: Azure, MCP, Hyper-RAG, orchestration, retrieval
 - Azure Services: Azure OpenAI, Azure Container Apps, Azure Database for PostgreSQL, Azure Blob Storage
 - Scenario: The platform represents an enterprise AI workflow in which a user submits a business question to a central orchestrator that coordinates MCP server interactions and Hyper-RAG retrieval within the same execution flow. The system combines tool-driven context and grounded retrieved content, builds a traceable context package, and returns an explainable answer through an Azure-based orchestration architecture.
-- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=zEGZGWegF7E)
 
-[![Watch the demo](https://img.youtube.com/vi/InuoZ_LXcSE/hqdefault.jpg)](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+[![Watch the demo](https://img.youtube.com/vi/zEGZGWegF7E/hqdefault.jpg)](https://www.youtube.com/watch?v=zEGZGWegF7E)
 
 
 ## Text-to-SQL Demo
