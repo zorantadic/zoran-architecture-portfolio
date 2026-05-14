@@ -27,6 +27,22 @@ This portfolio highlights architecture and implementation work across Azure foun
 - Governance, Security, and Compliance (policy-driven architecture, controlled access)
 - CI/CD and Infrastructure as Code (automated deployment, repeatable environments)
 
+## Enterprise-AI-Orchestration-Platform
+
+Enterprise-focused Azure AI orchestration Platform showing how grounded AI retrieval can combine structured enterprise data, text evidence, and visual document understanding for business decision support..
+
+- Repository: [Enterprise-AI-Orchestration-Platform](https://github.com/zorantadic/EnterpriseAIOrchestrationPlatform)
+- Focus: Enterprise AI orchestration, Hyper-RAG, Multimodal RAG, Text-to-SQL, governed MCP execution, Azure AI Search, Azure OpenAI, PostgreSQL pgvector, Azure SQL, Azure     Service Bus...
+  Azure Services: Azure AI Search, Azure OpenAI / Azure AI Services, Azure SQL Database, Azure Database for PostgreSQL Flexible Server, Azure Blob Storage. Azure Service      Bus, Azure Container Apps, Azure OpenAI / Microsoft Foundry
+- Scenario: The platform demonstrates enterprise AI orchestration across multiple governed capabilities:
+  Hyper-RAG retrieval over enterprise evidence, Text-to-SQL analytics over operational business data, Multimodal document intelligence using indexed image and text            evidence, Governed MCP enterprise actions with approval workflows, Grounded answer synthesis with traceability and evidence visibility
+  The project run operational intelligence workflows for Zoran Enterprise Group business units, combining structured SQL metrics, narrative retrieval, and multimodal          document evidence to identify enterprise operational risk and support executive decision-making.
+
+- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+
+[![Watch the demo](https://img.youtube.com/vi/InuoZ_LXcSE/hqdefault.jpg)](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+
+
 ## Controlled Multimodal RAG demo
 
 Enterprise-focused Azure demo showing how AI retrieval can use both text and visual evidence from business documents.
