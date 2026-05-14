@@ -2,7 +2,7 @@
 
 Senior Cloud Solutions Architect and AI Architect focused on secure Azure cloud platforms, enterprise modernization, governance automation, and AI-enabled solution delivery.
 
-This portfolio highlights architecture and implementation work across Azure foundations, Microsoft Fabric data platforms, Text-to-SQL analytics, Hyper-RAG, MCP, multi-agent systems, healthcare AI, and real-time voice AI.
+This portfolio highlights architecture and implementation work across Azure foundations, Enterprise-AI-Orchestration-Platform, Microsoft Fabric data platforms, Text-to-SQL analytics, Hyper-RAG, MCP, multi-agent systems, healthcare AI, and real-time voice AI.
 
 ## Featured Projects
 
