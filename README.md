@@ -43,9 +43,9 @@ Enterprise-focused Azure AI orchestration Platform showing how grounded AI retri
   Hyper-RAG retrieval over enterprise evidence, Text-to-SQL analytics over operational business data, Multimodal document intelligence using indexed image and text            evidence, Governed MCP enterprise actions with approval workflows, Grounded answer synthesis with traceability and evidence visibility
   The project run operational intelligence workflows for Zoran Enterprise Group business units, combining structured SQL metrics, narrative retrieval, and multimodal          document evidence to identify enterprise operational risk and support executive decision-making.
 
-- Demo Video: [Watch the demo](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+- Demo Video: [Watch the demo](https://https://youtu.be/xuR0YoRM_HI)
 
-[![Watch the demo](https://img.youtube.com/vi/InuoZ_LXcSE/hqdefault.jpg)](https://www.youtube.com/watch?v=InuoZ_LXcSE)
+[![Watch the demo](https://img.youtube.com/vi/InuoZ_LXcSE/hqdefault.jpg)](https://youtu.be/xuR0YoRM_HI)
 
 
 ## Controlled Multimodal RAG demo
