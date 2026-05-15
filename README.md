@@ -8,6 +8,7 @@ This portfolio highlights architecture and implementation work across Azure foun
 
 ### Implemented GitHub Demo Projects
 
+- [Enterprise-AI-Orchestration-Platform](https://github.com/zorantadic/EnterpriseAIOrchestrationPlatform)
 - [Text-to-SQL Demo](https://github.com/zorantadic/text-to-sql-demo)
 - [Azure MCP and Hyper-RAG Platform](https://github.com/zorantadic/azure-mcp-hyper-rag-platform)
 - [Multi-Agent Cloud Transformation](https://github.com/zorantadic/multi-agent-cloud-transformation)
