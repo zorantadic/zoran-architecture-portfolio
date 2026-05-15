@@ -36,7 +36,10 @@ This portfolio highlights architecture and implementation work across Azure foun
 
 Enterprise-focused Azure AI orchestration Platform showing how grounded AI retrieval can combine structured enterprise data, text evidence, and visual document understanding for business decision support..
 - Repository: [Enterprise-AI-Orchestration-Platform](https://github.com/zorantadic/EnterpriseAIOrchestrationPlatform)
-- - Project Documentation: [Enterprise_AI_Orchestration_Platform_Project](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Enterprise_AI_Orchestration_Platform_Project_Documentation.pdf)
+- - Project Documentation: [Enterprise_AI_Orchestration_Platform_Project PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Enterprise_AI_Orchestration_Platform_Project_Documentation.pdf)
+[Enterprise_AI_Orchestration_Platform_Project PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Volume.pdf)
+[Enterprise_AI_Orchestration_Platform_Project PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Volume2.pdf)
+[Enterprise_AI_Orchestration_Platform_Project PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Volume3.pdf)
 - Focus: Enterprise AI orchestration, Hyper-RAG, Multimodal RAG, Text-to-SQL, governed MCP execution, Azure AI Search, Azure OpenAI, PostgreSQL pgvector, Azure SQL, Azure     Service Bus...
   Azure Services: Azure AI Search, Azure OpenAI / Azure AI Services, Azure SQL Database, Azure Database for PostgreSQL Flexible Server, Azure Blob Storage. Azure Service      Bus, Azure Container Apps, Azure OpenAI / Microsoft Foundry
 - Scenario: The platform demonstrates enterprise AI orchestration across multiple governed capabilities:
