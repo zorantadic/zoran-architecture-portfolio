@@ -45,7 +45,7 @@ Enterprise-focused Azure AI orchestration Platform showing how grounded AI retri
   - [Volume2 PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Volume2.pdf)
 
   - [Volume3 PDF](https://github.com/zorantadic/Enterprise-AI-Orchestration-Platform/blob/main/Volume3.pdf)
-  - 
+
 - Focus: Enterprise AI orchestration, Hyper-RAG, Multimodal RAG, Text-to-SQL, governed MCP execution, Azure AI Search, Azure OpenAI, PostgreSQL pgvector, Azure SQL, Azure     Service Bus...
   Azure Services: Azure AI Search, Azure OpenAI / Azure AI Services, Azure SQL Database, Azure Database for PostgreSQL Flexible Server, Azure Blob Storage. Azure Service      Bus, Azure Container Apps, Azure OpenAI / Microsoft Foundry
 - Scenario: The platform demonstrates enterprise AI orchestration across multiple governed capabilities:
