@@ -4,15 +4,6 @@ Senior Cloud Solutions Architect and AI Architect focused on secure Azure cloud 
 
 This portfolio highlights architecture and implementation work across Azure foundations, Enterprise-AI-Orchestration-Platform, Microsoft Fabric data platforms, Text-to-SQL analytics, Hyper-RAG, MCP, multi-agent systems, healthcare AI, and real-time voice AI.
 
-## Featured Projects
-
-### Implemented GitHub Demo Projects
-
-- [Enterprise-AI-Orchestration-Platform](https://github.com/zorantadic/EnterpriseAIOrchestrationPlatform)
-- [Text-to-SQL Demo](https://github.com/zorantadic/text-to-sql-demo)
-- [Azure MCP and Hyper-RAG Platform](https://github.com/zorantadic/azure-mcp-hyper-rag-platform)
-- [Multi-Agent Cloud Transformation](https://github.com/zorantadic/multi-agent-cloud-transformation)
-- [Enterprise-AI-Orchestration-Platform](https://github.com/zorantadic/EnterpriseAIOrchestrationPlatform)
 
 ### Selected Architecture Projects
 - Enterprise AI orchestration Platform
